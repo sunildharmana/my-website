@@ -2,6 +2,4 @@
 
 This is really cool website
 
-Edit on example branch
-
-Now editing on update-readme
+Updates in master branch before rebase
